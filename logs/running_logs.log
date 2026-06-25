@@ -1,0 +1,554 @@
+[2026-06-12 12:20:03,362: INFO: main: This prints logging info]
+[2026-06-12 12:29:15,533: INFO: main: This prints logging info]
+[2026-06-15 23:20:55,636: INFO: main: This prints logging info]
+[2026-06-16 19:42:47,556: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-16 19:42:47,571: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-16 19:43:03,238: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-16 19:43:03,242: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-16 19:43:38,081: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-16 19:43:38,088: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-16 19:43:38,091: INFO: common: created directory at: artifacts]
+[2026-06-16 19:43:38,095: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-06-16 19:43:40,754: INFO: 2347656116: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: A2F0:175684:E255C:1B221A:6A315A14
+Accept-Ranges: bytes
+Date: Tue, 16 Jun 2026 14:13:41 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1500023-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1781619221.737104,VS0,VE795
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ba59b42bd0a9a9e1bd7ba6173944ce2d30422a68
+Expires: Tue, 16 Jun 2026 14:18:41 GMT
+Source-Age: 0
+
+]
+[2026-06-16 19:43:59,658: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-16 19:43:59,662: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-16 19:43:59,664: INFO: common: created directory at: artifacts]
+[2026-06-16 19:43:59,665: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-06-16 19:43:59,667: INFO: 1616470401: File already exists of size: ~ 7718 KB]
+[2026-06-17 18:50:13,102: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-06-17 18:50:13,112: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-17 18:50:13,121: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-17 18:50:13,122: INFO: common: created directory at: artifacts]
+[2026-06-17 18:50:13,123: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-06-17 18:50:17,926: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 781C:246871:1F53E2:25F65F:6A329F0E
+Accept-Ranges: bytes
+Date: Wed, 17 Jun 2026 13:20:18 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1500025-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1781702415.109201,VS0,VE3024
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 57ec5e4757afc192c9f217efe2ff4b1559218562
+Expires: Wed, 17 Jun 2026 13:25:18 GMT
+Source-Age: 3
+
+]
+[2026-06-17 18:50:18,085: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-06-17 19:22:42,650: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-06-17 19:22:42,654: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-17 19:22:42,657: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-17 19:22:42,658: INFO: common: created directory at: artifacts]
+[2026-06-17 19:22:42,659: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-06-17 19:22:44,493: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 781C:246871:1F53E2:25F65F:6A329F0E
+Accept-Ranges: bytes
+Date: Wed, 17 Jun 2026 13:52:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1500031-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1781704364.315127,VS0,VE306
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: f0d7b58c81f2a2004f8b36116e02cb27e1d524c3
+Expires: Wed, 17 Jun 2026 13:57:44 GMT
+Source-Age: 0
+
+]
+[2026-06-17 19:22:44,661: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-06-17 19:22:44,661: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-06-17 19:22:44,662: ERROR: main: DataValiadtionTrainingPipeline.__init__() missing 1 required positional argument: 'config']
+Traceback (most recent call last):
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\main.py", line 22, in <module>
+    data_validation = DataValiadtionTrainingPipeline()
+TypeError: DataValiadtionTrainingPipeline.__init__() missing 1 required positional argument: 'config'
+[2026-06-17 19:24:58,169: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-06-17 19:24:58,173: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-17 19:24:58,177: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-17 19:24:58,179: INFO: common: created directory at: artifacts]
+[2026-06-17 19:24:58,180: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-06-17 19:24:58,180: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2026-06-17 19:24:58,361: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-06-17 19:24:58,362: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-06-17 19:24:58,362: ERROR: main: DataValiadtionTrainingPipeline.__init__() missing 1 required positional argument: 'config']
+Traceback (most recent call last):
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\main.py", line 22, in <module>
+    data_validation = DataValiadtionTrainingPipeline()
+TypeError: DataValiadtionTrainingPipeline.__init__() missing 1 required positional argument: 'config'
+[2026-06-17 19:28:01,857: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-17 19:28:01,870: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-17 19:28:01,872: INFO: common: created directory at: artifacts]
+[2026-06-17 19:28:01,875: INFO: common: created directory at: artifacts/data_validation]
+[2026-06-17 19:28:48,453: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-06-17 19:28:48,458: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-17 19:28:48,464: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-17 19:28:48,466: INFO: common: created directory at: artifacts]
+[2026-06-17 19:28:48,468: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-06-17 19:28:48,470: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2026-06-17 19:28:48,678: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-06-17 19:28:48,678: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-06-17 19:28:48,679: ERROR: main: DataValiadtionTrainingPipeline.__init__() missing 1 required positional argument: 'config']
+Traceback (most recent call last):
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\main.py", line 22, in <module>
+    data_validation = DataValiadtionTrainingPipeline()
+TypeError: DataValiadtionTrainingPipeline.__init__() missing 1 required positional argument: 'config'
+[2026-06-17 19:30:44,101: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-06-17 19:30:44,171: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-17 19:30:44,177: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-17 19:30:44,179: INFO: common: created directory at: artifacts]
+[2026-06-17 19:30:44,181: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-06-17 19:30:44,182: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2026-06-17 19:30:44,424: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-06-17 19:30:44,425: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-06-17 19:30:44,426: ERROR: main: DataValiadtionTrainingPipeline.__init__() missing 1 required positional argument: 'config']
+Traceback (most recent call last):
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\main.py", line 22, in <module>
+    data_validation = DataValiadtionTrainingPipeline()
+TypeError: DataValiadtionTrainingPipeline.__init__() missing 1 required positional argument: 'config'
+[2026-06-17 19:31:52,898: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-06-17 19:31:52,904: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-17 19:31:52,908: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-17 19:31:52,910: INFO: common: created directory at: artifacts]
+[2026-06-17 19:31:52,911: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-06-17 19:31:52,913: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2026-06-17 19:31:53,151: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-06-17 19:31:53,152: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-06-17 19:31:53,152: ERROR: main: DataValiadtionTrainingPipeline.__init__() missing 1 required positional argument: 'config']
+Traceback (most recent call last):
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\main.py", line 22, in <module>
+    data_validation = DataValiadtionTrainingPipeline()
+TypeError: DataValiadtionTrainingPipeline.__init__() missing 1 required positional argument: 'config'
+[2026-06-17 19:32:55,033: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-06-17 19:32:55,038: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-17 19:32:55,040: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-17 19:32:55,041: INFO: common: created directory at: artifacts]
+[2026-06-17 19:32:55,042: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-06-17 19:32:55,043: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2026-06-17 19:32:55,226: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-06-17 19:32:55,227: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-06-17 19:32:55,227: ERROR: main: DataValiadtionTrainingPipeline.__init__() missing 1 required positional argument: 'config']
+Traceback (most recent call last):
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\main.py", line 22, in <module>
+    data_validation = DataValiadtionTrainingPipeline()
+TypeError: DataValiadtionTrainingPipeline.__init__() missing 1 required positional argument: 'config'
+[2026-06-17 19:39:38,449: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-06-17 19:39:38,462: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-17 19:39:38,466: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-17 19:39:38,467: INFO: common: created directory at: artifacts]
+[2026-06-17 19:39:38,467: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-06-17 19:39:38,468: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2026-06-17 19:39:38,735: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-06-17 19:39:38,735: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-06-17 19:39:38,736: ERROR: main: DataValiadtionTrainingPipeline.__init__() missing 1 required positional argument: 'config']
+Traceback (most recent call last):
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\main.py", line 22, in <module>
+    data_validation = DataValiadtionTrainingPipeline()
+TypeError: DataValiadtionTrainingPipeline.__init__() missing 1 required positional argument: 'config'
+[2026-06-17 21:22:01,076: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-06-17 21:22:01,093: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-17 21:22:01,103: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-17 21:22:01,105: INFO: common: created directory at: artifacts]
+[2026-06-17 21:22:01,106: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-06-17 21:22:01,107: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2026-06-17 21:22:01,311: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-06-17 21:22:01,312: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-06-17 21:22:01,312: ERROR: main: DataValiadtionTrainingPipeline.__init__() missing 1 required positional argument: 'config']
+Traceback (most recent call last):
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\main.py", line 22, in <module>
+    data_validation = DataValiadtionTrainingPipeline()
+TypeError: DataValiadtionTrainingPipeline.__init__() missing 1 required positional argument: 'config'
+[2026-06-17 21:37:28,299: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-06-17 21:37:28,303: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-17 21:37:28,306: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-17 21:37:28,306: INFO: common: created directory at: artifacts]
+[2026-06-17 21:37:28,308: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-06-17 21:37:31,340: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2D76:452A4:9A813:B87EE:6A32C63E
+Accept-Ranges: bytes
+Date: Wed, 17 Jun 2026 16:07:30 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1500020-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1781712450.903278,VS0,VE752
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: d6a4d97551c00faa78ed594f4c9e33c2355cf638
+Expires: Wed, 17 Jun 2026 16:12:30 GMT
+Source-Age: 0
+
+]
+[2026-06-17 21:37:31,486: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-06-17 21:37:31,487: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-06-17 21:37:31,490: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-17 21:37:31,493: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-17 21:37:31,494: INFO: common: created directory at: artifacts]
+[2026-06-17 21:37:31,495: INFO: common: created directory at: artifacts/data_validation]
+[2026-06-17 21:37:31,510: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2026-06-18 11:03:13,319: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-18 11:03:13,327: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-18 11:03:13,330: INFO: common: created directory at: artifacts]
+[2026-06-18 11:03:13,333: INFO: common: created directory at: artifacts/data_transformation]
+[2026-06-18 11:03:14,187: INFO: _client: HTTP Request: GET https://huggingface.co/api/agent-harnesses "HTTP/1.1 200 OK"]
+[2026-06-18 11:03:14,415: INFO: _client: HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"]
+[2026-06-18 11:03:14,417: WARNING: _http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.]
+[2026-06-18 11:03:14,426: INFO: _client: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/config.json "HTTP/1.1 200 OK"]
+[2026-06-18 11:03:14,450: INFO: _client: HTTP Request: GET https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/config.json "HTTP/1.1 200 OK"]
+[2026-06-18 11:03:14,738: INFO: _client: HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"]
+[2026-06-18 11:03:14,749: INFO: _client: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/tokenizer_config.json "HTTP/1.1 200 OK"]
+[2026-06-18 11:03:14,776: INFO: _client: HTTP Request: GET https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/tokenizer_config.json "HTTP/1.1 200 OK"]
+[2026-06-18 11:03:15,040: INFO: _client: HTTP Request: GET https://huggingface.co/api/models/google/pegasus-cnn_dailymail/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"]
+[2026-06-18 11:03:15,266: INFO: _client: HTTP Request: GET https://huggingface.co/api/models/google/pegasus-cnn_dailymail/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"]
+[2026-06-18 11:03:15,494: INFO: _client: HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/spiece.model "HTTP/1.1 307 Temporary Redirect"]
+[2026-06-18 11:03:15,508: INFO: _client: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/spiece.model "HTTP/1.1 200 OK"]
+[2026-06-18 11:03:15,526: INFO: _client: HTTP Request: GET https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/spiece.model "HTTP/1.1 200 OK"]
+[2026-06-18 11:03:15,779: INFO: _client: HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/tokenizer.json "HTTP/1.1 404 Not Found"]
+[2026-06-18 11:03:16,010: INFO: _client: HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/added_tokens.json "HTTP/1.1 404 Not Found"]
+[2026-06-18 11:03:16,242: INFO: _client: HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/special_tokens_map.json "HTTP/1.1 307 Temporary Redirect"]
+[2026-06-18 11:03:16,251: INFO: _client: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/special_tokens_map.json "HTTP/1.1 200 OK"]
+[2026-06-18 11:03:16,268: INFO: _client: HTTP Request: GET https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/special_tokens_map.json "HTTP/1.1 200 OK"]
+[2026-06-18 11:03:16,497: INFO: _client: HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"]
+[2026-06-18 11:28:33,706: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-06-18 11:28:33,710: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-18 11:28:33,713: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-18 11:28:33,713: INFO: common: created directory at: artifacts]
+[2026-06-18 11:28:33,715: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-06-18 11:28:36,209: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2ADC:370238:8A8B4:19DBAA:6A338909
+Accept-Ranges: bytes
+Date: Thu, 18 Jun 2026 05:58:36 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1500032-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1781762315.999065,VS0,VE1343
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 27fc39ae431d97a769bacdc28519ab990c5415a6
+Expires: Thu, 18 Jun 2026 06:03:36 GMT
+Source-Age: 1
+
+]
+[2026-06-18 11:28:36,369: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-06-18 11:28:36,370: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-06-18 11:28:36,372: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-18 11:28:36,375: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-18 11:28:36,376: INFO: common: created directory at: artifacts]
+[2026-06-18 11:28:36,377: INFO: common: created directory at: artifacts/data_validation]
+[2026-06-18 11:28:36,393: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2026-06-18 11:28:36,394: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2026-06-18 11:28:36,398: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-18 11:28:36,402: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-18 11:28:36,404: INFO: common: created directory at: artifacts]
+[2026-06-18 11:28:36,406: INFO: common: created directory at: artifacts/data_transformation]
+[2026-06-18 11:28:37,202: INFO: _client: HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"]
+[2026-06-18 11:28:37,204: WARNING: _http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.]
+[2026-06-18 11:28:37,210: INFO: _client: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/config.json "HTTP/1.1 200 OK"]
+[2026-06-18 11:28:37,455: INFO: _client: HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"]
+[2026-06-18 11:28:37,461: INFO: _client: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/tokenizer_config.json "HTTP/1.1 200 OK"]
+[2026-06-18 11:28:37,699: INFO: _client: HTTP Request: GET https://huggingface.co/api/models/google/pegasus-cnn_dailymail/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"]
+[2026-06-18 11:28:37,928: INFO: _client: HTTP Request: GET https://huggingface.co/api/models/google/pegasus-cnn_dailymail/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"]
+[2026-06-18 11:28:39,179: ERROR: main: PegasusTokenizer has no attribute as_target_tokenizer]
+Traceback (most recent call last):
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\main.py", line 38, in <module>
+    data_transformation.main()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\src\Text_Summarizer\pipeline\stage03_datatransformation.py", line 14, in main
+    data_transformation.convert()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\src\Text_Summarizer\components\data_transformation.py", line 31, in convert
+    dataset_samsum_pt = dataset_samsum.map(self.convert_examples_to_features, batched = True)
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\textS\Lib\site-packages\datasets\dataset_dict.py", line 969, in map
+    dataset_dict[split] = dataset.map(
+                          ~~~~~~~~~~~^
+        function=function,
+        ^^^^^^^^^^^^^^^^^^
+    ...<17 lines>...
+        on_mixed_types=on_mixed_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\textS\Lib\site-packages\datasets\arrow_dataset.py", line 576, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+                                           ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\textS\Lib\site-packages\datasets\arrow_dataset.py", line 3633, in map
+    for rank, done, content in Dataset._map_single(**unprocessed_kwargs):
+                               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\textS\Lib\site-packages\datasets\arrow_dataset.py", line 3998, in _map_single
+    for i, batch in iter_outputs(shard_iterable):
+                    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\textS\Lib\site-packages\datasets\arrow_dataset.py", line 3951, in iter_outputs
+    yield i, apply_function(example, i, offset=offset)
+             ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\textS\Lib\site-packages\datasets\arrow_dataset.py", line 3872, in apply_function
+    processed_inputs = function(*fn_args, *additional_args, **fn_kwargs)
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\src\Text_Summarizer\components\data_transformation.py", line 19, in convert_examples_to_features
+    with self.tokenizer.as_target_tokenizer():
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\textS\Lib\site-packages\transformers\tokenization_utils_base.py", line 1316, in __getattr__
+    raise AttributeError(f"{self.__class__.__name__} has no attribute {key}")
+AttributeError: PegasusTokenizer has no attribute as_target_tokenizer
+[2026-06-18 11:31:45,515: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-06-18 11:31:45,520: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-18 11:31:45,523: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-18 11:31:45,524: INFO: common: created directory at: artifacts]
+[2026-06-18 11:31:45,526: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-06-18 11:31:46,820: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2ADC:370238:8A8B4:19DBAA:6A338909
+Accept-Ranges: bytes
+Date: Thu, 18 Jun 2026 06:01:46 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1500023-HYD
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1781762507.959840,VS0,VE0
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 4a63304a4da95f05a6d1a5d66953a0df1b5099d2
+Expires: Thu, 18 Jun 2026 06:06:46 GMT
+Source-Age: 192
+
+]
+[2026-06-18 11:31:46,962: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-06-18 11:31:46,962: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-06-18 11:31:46,965: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-18 11:31:46,967: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-18 11:31:46,967: INFO: common: created directory at: artifacts]
+[2026-06-18 11:31:46,968: INFO: common: created directory at: artifacts/data_validation]
+[2026-06-18 11:31:46,980: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2026-06-18 11:31:46,980: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2026-06-18 11:31:46,983: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-18 11:31:46,985: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-18 11:31:46,986: INFO: common: created directory at: artifacts]
+[2026-06-18 11:31:46,987: INFO: common: created directory at: artifacts/data_transformation]
+[2026-06-18 11:31:47,739: INFO: _client: HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"]
+[2026-06-18 11:31:47,745: INFO: _client: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/config.json "HTTP/1.1 200 OK"]
+[2026-06-18 11:31:47,987: INFO: _client: HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"]
+[2026-06-18 11:31:47,989: WARNING: _http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.]
+[2026-06-18 11:31:47,996: INFO: _client: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/tokenizer_config.json "HTTP/1.1 200 OK"]
+[2026-06-18 11:31:48,231: INFO: _client: HTTP Request: GET https://huggingface.co/api/models/google/pegasus-cnn_dailymail/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"]
+[2026-06-18 11:31:48,458: INFO: _client: HTTP Request: GET https://huggingface.co/api/models/google/pegasus-cnn_dailymail/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"]
+[2026-06-18 11:31:49,507: ERROR: main: PegasusTokenizer has no attribute as_target_tokenizer]
+Traceback (most recent call last):
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\main.py", line 38, in <module>
+    data_transformation.main()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\src\Text_Summarizer\pipeline\stage03_datatransformation.py", line 14, in main
+    data_transformation.convert()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\src\Text_Summarizer\components\data_transformation.py", line 35, in convert
+    dataset_samsum_pt = dataset_samsum.map(self.convert_examples_to_features, batched = True)
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\textS\Lib\site-packages\datasets\dataset_dict.py", line 969, in map
+    dataset_dict[split] = dataset.map(
+                          ~~~~~~~~~~~^
+        function=function,
+        ^^^^^^^^^^^^^^^^^^
+    ...<17 lines>...
+        on_mixed_types=on_mixed_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\textS\Lib\site-packages\datasets\arrow_dataset.py", line 576, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+                                           ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\textS\Lib\site-packages\datasets\arrow_dataset.py", line 3633, in map
+    for rank, done, content in Dataset._map_single(**unprocessed_kwargs):
+                               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\textS\Lib\site-packages\datasets\arrow_dataset.py", line 3998, in _map_single
+    for i, batch in iter_outputs(shard_iterable):
+                    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\textS\Lib\site-packages\datasets\arrow_dataset.py", line 3951, in iter_outputs
+    yield i, apply_function(example, i, offset=offset)
+             ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\textS\Lib\site-packages\datasets\arrow_dataset.py", line 3872, in apply_function
+    processed_inputs = function(*fn_args, *additional_args, **fn_kwargs)
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\src\Text_Summarizer\components\data_transformation.py", line 19, in convert_examples_to_features
+    with self.tokenizer.as_target_tokenizer():
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RakeshUdayagiri\OneDrive - BILVANTIS TECHNOLOGIES PRIVATE LIMITED\Desktop\AI Projects\textS\Lib\site-packages\transformers\tokenization_utils_base.py", line 1316, in __getattr__
+    raise AttributeError(f"{self.__class__.__name__} has no attribute {key}")
+AttributeError: PegasusTokenizer has no attribute as_target_tokenizer
+[2026-06-18 11:37:09,202: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-06-18 11:37:09,206: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-18 11:37:09,208: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-18 11:37:09,209: INFO: common: created directory at: artifacts]
+[2026-06-18 11:37:09,210: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-06-18 11:37:10,777: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2ADC:370238:8A8B4:19DBAA:6A338909
+Accept-Ranges: bytes
+Date: Thu, 18 Jun 2026 06:07:10 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1500029-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1781762831.631800,VS0,VE325
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 668a3cb3fc5acf0f07a251276c55d0f7445a9f4a
+Expires: Thu, 18 Jun 2026 06:12:10 GMT
+Source-Age: 0
+
+]
+[2026-06-18 11:37:10,920: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-06-18 11:37:10,920: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-06-18 11:37:10,925: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-18 11:37:10,928: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-18 11:37:10,929: INFO: common: created directory at: artifacts]
+[2026-06-18 11:37:10,929: INFO: common: created directory at: artifacts/data_validation]
+[2026-06-18 11:37:10,943: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2026-06-18 11:37:10,944: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2026-06-18 11:37:10,948: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-18 11:37:10,950: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-18 11:37:10,952: INFO: common: created directory at: artifacts]
+[2026-06-18 11:37:10,953: INFO: common: created directory at: artifacts/data_transformation]
+[2026-06-18 11:37:11,666: INFO: _client: HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"]
+[2026-06-18 11:37:11,669: WARNING: _http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.]
+[2026-06-18 11:37:11,676: INFO: _client: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/config.json "HTTP/1.1 200 OK"]
+[2026-06-18 11:37:11,928: INFO: _client: HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"]
+[2026-06-18 11:37:11,934: INFO: _client: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/tokenizer_config.json "HTTP/1.1 200 OK"]
+[2026-06-18 11:37:12,163: INFO: _client: HTTP Request: GET https://huggingface.co/api/models/google/pegasus-cnn_dailymail/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"]
+[2026-06-18 11:37:12,391: INFO: _client: HTTP Request: GET https://huggingface.co/api/models/google/pegasus-cnn_dailymail/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"]
+[2026-06-18 11:37:12,705: INFO: data_transformation: Loading dataset from disk...]
+[2026-06-18 11:37:12,811: INFO: data_transformation: Tokenizing dataset...]
+[2026-06-18 11:37:15,953: INFO: data_transformation: Saving transformed dataset to artifacts/data_transformation\samsum_dataset]
+[2026-06-18 11:37:16,036: INFO: data_transformation: Data transformation completed successfully.]
+[2026-06-18 11:37:16,095: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2026-06-19 11:33:45,428: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-19 11:33:45,461: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-19 11:33:45,465: INFO: common: created directory at: artifacts]
+[2026-06-19 11:33:45,469: INFO: common: created directory at: artifacts/data_validation]
+[2026-06-24 18:08:48,513: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-24 18:08:48,525: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-24 18:08:48,529: INFO: common: created directory at: artifacts]
+[2026-06-24 18:08:48,534: INFO: common: created directory at: artifacts/model_evaluation]
