@@ -1,9 +1,10 @@
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
-from datasets import load_dataset, load_from_disk, load_metric
+from datasets import load_dataset, load_from_disk
 import torch
 import pandas as pd
 from tqdm import tqdm
 from Text_Summarizer.entity import ModelEvaluationConfig
+import evaluate
 
 
 
@@ -66,7 +67,7 @@ class ModelEvaluation:
 
         rouge_names = ["rouge1", "rouge2", "rougeL", "rougeLsum"]
   
-        rouge_metric = load_metric('rouge')
+        rouge_metric = evaluate.load('rouge')
 
         score = self.calculate_metric_on_test_ds(
         dataset_samsum_pt['test'][0:10], rouge_metric, model_pegasus, tokenizer, batch_size = 2, column_text = 'dialogue', column_summary= 'summary'

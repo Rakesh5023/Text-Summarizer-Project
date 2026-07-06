@@ -44,7 +44,7 @@ class ModelTrainer:
                   train_dataset=dataset_samsum_pt["train"], 
                   eval_dataset=dataset_samsum_pt["validation"])
         
-        trainer.train()
+        trainer.train()   
 
         ## Save model
         model_pegasus.save_pretrained(os.path.join(self.config.root_dir,"pegasus-samsum-model"))
