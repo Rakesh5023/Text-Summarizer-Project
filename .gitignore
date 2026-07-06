@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs
+logs/
+
+# Generated artifacts
+artifacts/
+
+# Build files
+*.egg-info/
+build/
+dist/
+
+# Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
