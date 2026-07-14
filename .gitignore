@@ -8,9 +8,6 @@ __pycache__/
 # Logs
 logs/
 
-# Generated artifacts
-artifacts/
-
 # Build files
 *.egg-info/
 build/
@@ -24,3 +21,5 @@ dist/
 
 # Environment
 .env
+
+artifacts/model_trainer/model.safetensors
