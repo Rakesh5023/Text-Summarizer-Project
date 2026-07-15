@@ -22,4 +22,4 @@ dist/
 # Environment
 .env
 
-artifacts/model_trainer/model.safetensors
+artifacts/
